@@ -1,0 +1,5 @@
+# Prevent the use of lockfile as it would cause the opentofu version to be locked
+flake.lock
+
+# Nix build output
+result
